@@ -894,14 +894,3 @@ Wide-Slice Residual Networks for Food Recognition, 2016
 Collaborative filtering and two stage recommender system with Surprise
 [https://www.the-odd-dataguy.com/2022/03/14/surprise/](https://www.the-odd-dataguy.com/2022/03/14/surprise/)
 
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- Project Logistics -->
-<h2 id="Project Logistics"> Project Logistics</h2>
-
-
-*Subject to alterations*
-### GANTT Chart
-
-[GANTT Chart](https://gtvault-my.sharepoint.com/:x:/g/personal/averma373_gatech_edu/EVhkpnexSZlFo1E8W2ZUiFkBdDpVgO8g5v7mOKs5ekzM0Q?e=DuKFx6)
