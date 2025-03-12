@@ -11,7 +11,7 @@
   <ol>
     <li><a href="#Background"> ➤ Background</a></li>
     <li><a href="#Problem Definition"> ➤ Problem Definition</a></li>
-    <li><a href="#Data Collection"> ➤ Data Collection</a></li>
+    <li><a href="#Data Collection"> ➤ Scraping Data</a></li>
     <li><a href="#Results & Discussion"> ➤ Results & Discussion</a></li>
     <li><a href="#References"> ➤ References</a></li>
     <li><a href="#Project Logistics"> ➤ Project Logistics</a></li>
@@ -72,7 +72,9 @@ The schematic of these stages is given below:
 <!-- Data Collection -->
 <h2 id="Data Collection"> Data Collection</h2>
 
-### Data for CNN Module
+### Data for CNN Module (Web Scraping + Kaggle)
+
+Firstly we fetch recipe data directly from https://api.food.com/ and store it in CSV files.
 [Dataset Source](https://www.kaggle.com/datasets/dansbecker/food-101)
 
 Iwill be using Food-101 dataset for the CNN classification which consists of 101 food categories with a total of 101,000 images. 
